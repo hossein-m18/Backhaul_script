@@ -31,14 +31,8 @@ if os.geteuid() != 0:
 def display_checkmark(message):
     print("\u2714 " + message)
 
-def logo():
-    logo_path = "/etc/logo2.sh"
-    try:
-        subprocess.run(["bash", "-c", logo_path], check=True)
-    except subprocess.CalledProcessError as e:
-        return e
 
-    return None
+
 def install_prerequisites():
     print("\033[93mInstalling prerequisites...\033[0m")
     if platform.system() == "Linux":
