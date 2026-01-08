@@ -1,4 +1,4 @@
-![R (2)](https://github.com/Azumi67/PrivateIP-Tunnel/assets/119934376/a064577c-9302-4f43-b3bf-3d4f84245a6f)
+![R (2)](https://github.com/hossein-m18/PrivateIP-Tunnel/assets/119934376/a064577c-9302-4f43-b3bf-3d4f84245a6f)
 نام پروژه : اسکریپت backhaul
 ---------------------------------------------------------------
 
@@ -10,7 +10,7 @@
 
 **ویرایش ریست تایمر اضافه شد**
 
-![check](https://github.com/Azumi67/PrivateIP-Tunnel/assets/119934376/13de8d36-dcfe-498b-9d99-440049c0cf14)
+![check](https://github.com/hossein-m18/PrivateIP-Tunnel/assets/119934376/13de8d36-dcfe-498b-9d99-440049c0cf14)
 **امکانات**(نسخه v0.6.5)
 - ریورس تانل به صورت single یا multi
 - یک سرور ایران و ده کلاینت خارج
@@ -34,7 +34,7 @@
 -----------------------
 <div align="right">
   <details>
-    <summary><strong><img src="https://github.com/Azumi67/Rathole_reverseTunnel/assets/119934376/3cfd920d-30da-4085-8234-1eec16a67460" alt="Image"> نکات</strong></summary>
+    <summary><strong><img src="https://github.com/hossein-m18/Rathole_reverseTunnel/assets/119934376/3cfd920d-30da-4085-8234-1eec16a67460" alt="Image"> نکات</strong></summary>
   
 ------------------------------------ 
 
@@ -51,18 +51,18 @@
   
 ------------------------------------ 
 
-  ![6348248](https://github.com/Azumi67/PrivateIP-Tunnel/assets/119934376/398f8b07-65be-472e-9821-631f7b70f783)
+  ![6348248](https://github.com/hossein-m18/PrivateIP-Tunnel/assets/119934376/398f8b07-65be-472e-9821-631f7b70f783)
 **آموزش استفاده از اسکریپت**
 
  <div align="right">
   <details>
-    <summary><strong><img src="https://github.com/Azumi67/Rathole_reverseTunnel/assets/119934376/fcbbdc62-2de5-48aa-bbdd-e323e96a62b5" alt="Image"> </strong>روش ریورس tcpmux - single</summary>
+    <summary><strong><img src="https://github.com/hossein-m18/Rathole_reverseTunnel/assets/119934376/fcbbdc62-2de5-48aa-bbdd-e323e96a62b5" alt="Image"> </strong>روش ریورس tcpmux - single</summary>
 
 ------------------
 - این اموزش برای نمونه نوشته شده است و تنها برای اشنایی شما با این اسکریپت میباشد
 - بقیه روش هم به همین صورت است و میتوانید از این اموزش برای سایر موارد در single method استفاده نمایید. در این روش من به وسیله tcpmux بین یک سرور ایران و یک کلاینت خارج ارتباط برقرار میکنم
 
-![green-dot-clipart-3](https://github.com/Azumi67/6TO4-PrivateIP/assets/119934376/902a2efa-f48f-4048-bc2a-5be12143bef3) **سرور ایران**
+![green-dot-clipart-3](https://github.com/hossein-m18/6TO4-PrivateIP/assets/119934376/902a2efa-f48f-4048-bc2a-5be12143bef3) **سرور ایران**
 
 <p align="right">
   <img src="https://github.com/user-attachments/assets/e53358b2-a2bb-4a81-9934-e1b212ef5b72" alt="Image" />
@@ -84,7 +84,7 @@
 
 ----------------------
 
-![green-dot-clipart-3](https://github.com/Azumi67/6TO4-PrivateIP/assets/119934376/902a2efa-f48f-4048-bc2a-5be12143bef3) **کلاینت خارج**
+![green-dot-clipart-3](https://github.com/hossein-m18/6TO4-PrivateIP/assets/119934376/902a2efa-f48f-4048-bc2a-5be12143bef3) **کلاینت خارج**
 
 <p align="right">
   <img src="https://github.com/user-attachments/assets/1f2e485b-86ca-4ff8-89bf-77d499a17653" alt="Image" />
@@ -116,13 +116,13 @@
 </div>
 <div align="right">
   <details>
-    <summary><strong><img src="https://github.com/Azumi67/Rathole_reverseTunnel/assets/119934376/fcbbdc62-2de5-48aa-bbdd-e323e96a62b5" alt="Image"> </strong>روش ریورس wss - single</summary>
+    <summary><strong><img src="https://github.com/hossein-m18/Rathole_reverseTunnel/assets/119934376/fcbbdc62-2de5-48aa-bbdd-e323e96a62b5" alt="Image"> </strong>روش ریورس wss - single</summary>
 
 ------------------
 - این اموزش برای نمونه نوشته شده است و تنها برای اشنایی شما با این اسکریپت میباشد
 - بقیه روش هم به همین صورت است و میتوانید از این اموزش برای سایر موارد در single method استفاده نمایید. در این روش من به وسیله wss بین یک سرور ایران و یک کلاینت خارج ارتباط برقرار میکنم
 
-![green-dot-clipart-3](https://github.com/Azumi67/6TO4-PrivateIP/assets/119934376/902a2efa-f48f-4048-bc2a-5be12143bef3) **سرور ایران**
+![green-dot-clipart-3](https://github.com/hossein-m18/6TO4-PrivateIP/assets/119934376/902a2efa-f48f-4048-bc2a-5be12143bef3) **سرور ایران**
 
 <p align="right">
   <img src="https://github.com/user-attachments/assets/29105625-a739-4b03-ad68-8da156dd6d48" alt="Image" />
@@ -141,7 +141,7 @@
 
 ----------------------
 
-![green-dot-clipart-3](https://github.com/Azumi67/6TO4-PrivateIP/assets/119934376/902a2efa-f48f-4048-bc2a-5be12143bef3) **کلاینت خارج**
+![green-dot-clipart-3](https://github.com/hossein-m18/6TO4-PrivateIP/assets/119934376/902a2efa-f48f-4048-bc2a-5be12143bef3) **کلاینت خارج**
 
 <p align="right">
   <img src="https://github.com/user-attachments/assets/374a05eb-b1f4-4a52-917a-7f305d71642d" alt="Image" />
@@ -162,13 +162,13 @@
 </div>
 <div align="right">
   <details>
-    <summary><strong><img src="https://github.com/Azumi67/Rathole_reverseTunnel/assets/119934376/fcbbdc62-2de5-48aa-bbdd-e323e96a62b5" alt="Image"> </strong>روش ریورس ws - single</summary>
+    <summary><strong><img src="https://github.com/hossein-m18/Rathole_reverseTunnel/assets/119934376/fcbbdc62-2de5-48aa-bbdd-e323e96a62b5" alt="Image"> </strong>روش ریورس ws - single</summary>
 
 ------------------
 - این اموزش برای نمونه نوشته شده است و تنها برای اشنایی شما با این اسکریپت میباشد
 - بقیه روش هم به همین صورت است و میتوانید از این اموزش برای سایر موارد در single method استفاده نمایید. در این روش من به وسیله ws بین یک سرور ایران و یک کلاینت خارج ارتباط برقرار میکنم
 
-![green-dot-clipart-3](https://github.com/Azumi67/6TO4-PrivateIP/assets/119934376/902a2efa-f48f-4048-bc2a-5be12143bef3) **سرور ایران**
+![green-dot-clipart-3](https://github.com/hossein-m18/6TO4-PrivateIP/assets/119934376/902a2efa-f48f-4048-bc2a-5be12143bef3) **سرور ایران**
 
 <p align="right">
   <img src="https://github.com/user-attachments/assets/4c8d5fbc-66fe-49c2-b5e7-d8d85f0e0fd3" alt="Image" />
@@ -186,7 +186,7 @@
 
 ----------------------
 
-![green-dot-clipart-3](https://github.com/Azumi67/6TO4-PrivateIP/assets/119934376/902a2efa-f48f-4048-bc2a-5be12143bef3) **کلاینت خارج**
+![green-dot-clipart-3](https://github.com/hossein-m18/6TO4-PrivateIP/assets/119934376/902a2efa-f48f-4048-bc2a-5be12143bef3) **کلاینت خارج**
 
 <p align="right">
   <img src="https://github.com/user-attachments/assets/b259e927-51ea-49ee-9c57-4ebf02846d10" alt="Image" />
@@ -218,13 +218,13 @@
 </div>
 <div align="right">
   <details>
-    <summary><strong><img src="https://github.com/Azumi67/Rathole_reverseTunnel/assets/119934376/fcbbdc62-2de5-48aa-bbdd-e323e96a62b5" alt="Image"> </strong>روش ریورس wss - مولتی</summary>
+    <summary><strong><img src="https://github.com/hossein-m18/Rathole_reverseTunnel/assets/119934376/fcbbdc62-2de5-48aa-bbdd-e323e96a62b5" alt="Image"> </strong>روش ریورس wss - مولتی</summary>
 
 ------------------
 - این اموزش برای نمونه نوشته شده است و تنها برای اشنایی شما با این اسکریپت میباشد
 - بقیه روش هم به همین صورت است و میتوانید از این اموزش برای سایر موارد در multi method استفاده نمایید. در این روش من به وسیله wss بین یک سرور ایران و دو کلاینت خارج ارتباط برقرار میکنم
 
-![green-dot-clipart-3](https://github.com/Azumi67/6TO4-PrivateIP/assets/119934376/902a2efa-f48f-4048-bc2a-5be12143bef3) **سرور ایران کانفیگ اول**
+![green-dot-clipart-3](https://github.com/hossein-m18/6TO4-PrivateIP/assets/119934376/902a2efa-f48f-4048-bc2a-5be12143bef3) **سرور ایران کانفیگ اول**
 
 <p align="right">
   <img src="https://github.com/user-attachments/assets/e32035f4-2256-4403-82dd-cef85be4f3fa" alt="Image" />
@@ -247,7 +247,7 @@
 - سپس از من سوال میشود که ایا ریست تایمر میخواهم فعال کنم که گزینه Y را میزنم. شما هر ساعتی که مناسب خودتان است را وارد نمایید.
 
 ----------------------
-![green-dot-clipart-3](https://github.com/Azumi67/6TO4-PrivateIP/assets/119934376/902a2efa-f48f-4048-bc2a-5be12143bef3) **سرور ایران کانفیگ دوم**
+![green-dot-clipart-3](https://github.com/hossein-m18/6TO4-PrivateIP/assets/119934376/902a2efa-f48f-4048-bc2a-5be12143bef3) **سرور ایران کانفیگ دوم**
 
 <p align="right">
   <img src="https://github.com/user-attachments/assets/8a41cf45-9462-4e67-b273-29eb5dd3cc8c" alt="Image" />
@@ -268,7 +268,7 @@
 - سپس از من سوال میشود که ایا ریست تایمر میخواهم فعال کنم که گزینه Y را میزنم. شما هر ساعتی که مناسب خودتان است را وارد نمایید.زمان ها برابر باشد
 
 ----------------------
-![green-dot-clipart-3](https://github.com/Azumi67/6TO4-PrivateIP/assets/119934376/902a2efa-f48f-4048-bc2a-5be12143bef3) **کلاینت خارج اول**
+![green-dot-clipart-3](https://github.com/hossein-m18/6TO4-PrivateIP/assets/119934376/902a2efa-f48f-4048-bc2a-5be12143bef3) **کلاینت خارج اول**
 
 <p align="right">
   <img src="https://github.com/user-attachments/assets/2bb96ca0-97f5-4dbf-8298-74def9876060" alt="Image" />
@@ -284,7 +284,7 @@
 - سپس از من سوال میشود که ایا ریست تایمر را میخواهم که فعال شود که گزینه y را میزنم و همان مقدار سرور ایران را وارد میکنم
 
 ----------------------
-![green-dot-clipart-3](https://github.com/Azumi67/6TO4-PrivateIP/assets/119934376/902a2efa-f48f-4048-bc2a-5be12143bef3) **کلاینت خارج دوم**
+![green-dot-clipart-3](https://github.com/hossein-m18/6TO4-PrivateIP/assets/119934376/902a2efa-f48f-4048-bc2a-5be12143bef3) **کلاینت خارج دوم**
 
 <p align="right">
   <img src="https://github.com/user-attachments/assets/fe2105f3-ca34-4a1f-b32c-fe3ac5980a89" alt="Image" />
@@ -323,14 +323,14 @@
 </div>
 <div align="right">
   <details>
-    <summary><strong><img src="https://github.com/Azumi67/Rathole_reverseTunnel/assets/119934376/fcbbdc62-2de5-48aa-bbdd-e323e96a62b5" alt="Image"> </strong>روش ریورس udp - single</summary>
+    <summary><strong><img src="https://github.com/hossein-m18/Rathole_reverseTunnel/assets/119934376/fcbbdc62-2de5-48aa-bbdd-e323e96a62b5" alt="Image"> </strong>روش ریورس udp - single</summary>
 
 ------------------
 - این اموزش برای نمونه نوشته شده است و تنها برای اشنایی شما با این اسکریپت میباشد
 - در این روش، اموزش استفاده از Port range در این تانل را مینویسم
 - بقیه روش هم به همین صورت است و میتوانید از این اموزش برای سایر موارد در single method استفاده نمایید. در این روش من به وسیله udp بین یک سرور ایران و یک کلاینت خارج ارتباط برقرار میکنم
 
-![green-dot-clipart-3](https://github.com/Azumi67/6TO4-PrivateIP/assets/119934376/902a2efa-f48f-4048-bc2a-5be12143bef3) **سرور ایران**
+![green-dot-clipart-3](https://github.com/hossein-m18/6TO4-PrivateIP/assets/119934376/902a2efa-f48f-4048-bc2a-5be12143bef3) **سرور ایران**
 
 <p align="right">
   <img src="https://github.com/user-attachments/assets/af6147af-e481-46bc-9efe-75ed6b578abd" alt="Image" />
@@ -349,7 +349,7 @@
 
 ----------------------
 
-![green-dot-clipart-3](https://github.com/Azumi67/6TO4-PrivateIP/assets/119934376/902a2efa-f48f-4048-bc2a-5be12143bef3) **کلاینت خارج**
+![green-dot-clipart-3](https://github.com/hossein-m18/6TO4-PrivateIP/assets/119934376/902a2efa-f48f-4048-bc2a-5be12143bef3) **کلاینت خارج**
 
 <p align="right">
   <img src="https://github.com/user-attachments/assets/38043403-eacb-4523-89fc-a34995ffb5f5" alt="Image" />
@@ -369,13 +369,13 @@
 </div>
 <div align="right">
   <details>
-    <summary><strong><img src="https://github.com/Azumi67/Rathole_reverseTunnel/assets/119934376/fcbbdc62-2de5-48aa-bbdd-e323e96a62b5" alt="Image"> </strong>نحوه ویرایش</summary>
+    <summary><strong><img src="https://github.com/hossein-m18/Rathole_reverseTunnel/assets/119934376/fcbbdc62-2de5-48aa-bbdd-e323e96a62b5" alt="Image"> </strong>نحوه ویرایش</summary>
 
 ------------------
 - این اموزش برای نمونه نوشته شده است و تنها برای اشنایی شما با این اسکریپت میباشد
 - در این قسمت میخواهم روش ویرایش یا اضافه کردن پورت ها را در گزینه edit backhaul نشان بدهم
 
-![green-dot-clipart-3](https://github.com/Azumi67/6TO4-PrivateIP/assets/119934376/902a2efa-f48f-4048-bc2a-5be12143bef3) **سرور ایران**
+![green-dot-clipart-3](https://github.com/hossein-m18/6TO4-PrivateIP/assets/119934376/902a2efa-f48f-4048-bc2a-5be12143bef3) **سرور ایران**
 
 <p align="right">
   <img src="https://github.com/user-attachments/assets/336e8bf0-56b3-4f58-addb-0d5e1f6d33d5" alt="Image" />
@@ -401,14 +401,14 @@
 </div>
 <div align="right">
   <details>
-    <summary><strong><img src="https://github.com/Azumi67/Rathole_reverseTunnel/assets/119934376/fcbbdc62-2de5-48aa-bbdd-e323e96a62b5" alt="Image"> </strong> روش ریورس و به صورت پورت رنج ws - مولتی</summary>
+    <summary><strong><img src="https://github.com/hossein-m18/Rathole_reverseTunnel/assets/119934376/fcbbdc62-2de5-48aa-bbdd-e323e96a62b5" alt="Image"> </strong> روش ریورس و به صورت پورت رنج ws - مولتی</summary>
 
 ------------------
 - این اموزش برای نمونه نوشته شده است و تنها برای اشنایی شما با این اسکریپت میباشد
 - بقیه روش هم به همین صورت است و میتوانید از این اموزش برای سایر موارد در multi method استفاده نمایید. در این روش من به وسیله ws بین یک سرور ایران و دو کلاینت خارج ارتباط برقرار میکنم
 - من برای یک کانفیگ از port range و برای کانفیگی دیگر از regualar port استفاده میکنم تا شما کاملا متوجه شوید
 
-![green-dot-clipart-3](https://github.com/Azumi67/6TO4-PrivateIP/assets/119934376/902a2efa-f48f-4048-bc2a-5be12143bef3) **سرور ایران کانفیگ اول**
+![green-dot-clipart-3](https://github.com/hossein-m18/6TO4-PrivateIP/assets/119934376/902a2efa-f48f-4048-bc2a-5be12143bef3) **سرور ایران کانفیگ اول**
 
 <p align="right">
   <img src="https://github.com/user-attachments/assets/e32035f4-2256-4403-82dd-cef85be4f3fa" alt="Image" />
@@ -433,7 +433,7 @@
 - سپس از من سوال میشود که ایا ریست تایمر میخواهم فعال کنم که گزینه Y را میزنم. شما هر ساعتی که مناسب خودتان است را وارد نمایید.
 
 ----------------------
-![green-dot-clipart-3](https://github.com/Azumi67/6TO4-PrivateIP/assets/119934376/902a2efa-f48f-4048-bc2a-5be12143bef3) **سرور ایران کانفیگ دوم**
+![green-dot-clipart-3](https://github.com/hossein-m18/6TO4-PrivateIP/assets/119934376/902a2efa-f48f-4048-bc2a-5be12143bef3) **سرور ایران کانفیگ دوم**
 
 <p align="right">
   <img src="https://github.com/user-attachments/assets/39c87792-280f-40ae-bb5d-96d1ee743fb9" alt="Image" />
@@ -458,7 +458,7 @@
 - سپس از من سوال میشود که ایا ریست تایمر میخواهم فعال کنم که گزینه Y را میزنم. شما هر ساعتی که مناسب خودتان است را وارد نمایید.زمان ها برابر باشد
 
 ----------------------
-![green-dot-clipart-3](https://github.com/Azumi67/6TO4-PrivateIP/assets/119934376/902a2efa-f48f-4048-bc2a-5be12143bef3) **کلاینت خارج اول**
+![green-dot-clipart-3](https://github.com/hossein-m18/6TO4-PrivateIP/assets/119934376/902a2efa-f48f-4048-bc2a-5be12143bef3) **کلاینت خارج اول**
 
 <p align="right">
   <img src="https://github.com/user-attachments/assets/a6ae6e94-4f3d-4bd2-bd94-08bfb22938be" alt="Image" />
@@ -474,7 +474,7 @@
 - سپس از من سوال میشود که ایا ریست تایمر را میخواهم که فعال شود که گزینه y را میزنم و همان مقدار سرور ایران را وارد میکنم
 
 ----------------------
-![green-dot-clipart-3](https://github.com/Azumi67/6TO4-PrivateIP/assets/119934376/902a2efa-f48f-4048-bc2a-5be12143bef3) **کلاینت خارج دوم**
+![green-dot-clipart-3](https://github.com/hossein-m18/6TO4-PrivateIP/assets/119934376/902a2efa-f48f-4048-bc2a-5be12143bef3) **کلاینت خارج دوم**
 
 <p align="right">
   <img src="https://github.com/user-attachments/assets/365a4a9a-cda8-4c16-bde8-bbff69f3d6ea" alt="Image" />
@@ -496,7 +496,7 @@
 </div>
 
 ------------------
-![R (a2)](https://github.com/Azumi67/PrivateIP-Tunnel/assets/119934376/716fd45e-635c-4796-b8cf-856024e5b2b2)
+![R (a2)](https://github.com/hossein-m18/PrivateIP-Tunnel/assets/119934376/716fd45e-635c-4796-b8cf-856024e5b2b2)
 **اسکریپت من**
 ----------------
 
@@ -510,15 +510,15 @@ sudo apt update -y && sudo apt install -y python3 python3-pip curl && pip3 insta
 ```
 - اجرای اسکریپت
 ```
-bash -c "$(curl -fsSL https://raw.githubusercontent.com/Azumi67/Backhaul_script/refs/heads/main/backhaul.sh)"
+bash -c "$(curl -fsSL https://raw.githubusercontent.com/hossein-m18/Backhaul_script/refs/heads/main/backhaul.sh)"
 ```
 - در صورتی که سرور شما externally managed بود، از کامند زیر استفاده نمایید
 ```
-bash -c "$(curl -fsSL https://raw.githubusercontent.com/Azumi67/Backhaul_script/refs/heads/main/managed.sh)"
+bash -c "$(curl -fsSL https://raw.githubusercontent.com/hossein-m18/Backhaul_script/refs/heads/main/managed.sh)"
 ```
 ---------------------------------------------
-![R23 (1)](https://github.com/Azumi67/FRP-V2ray-Loadbalance/assets/119934376/18d12405-d354-48ac-9084-fff98d61d91c)
+![R23 (1)](https://github.com/hossein-m18/FRP-V2ray-Loadbalance/assets/119934376/18d12405-d354-48ac-9084-fff98d61d91c)
 **سورس ها**
 
 
-![R (9)](https://github.com/Azumi67/FRP-V2ray-Loadbalance/assets/119934376/33388f7b-f1ab-4847-9e9b-e8b39d75deaa) [سورس  backhaul](https://github.com/Musixal/Backhaul)
+![R (9)](https://github.com/hossein-m18/FRP-V2ray-Loadbalance/assets/119934376/33388f7b-f1ab-4847-9e9b-e8b39d75deaa) [سورس  backhaul](https://github.com/Musixal/Backhaul)
