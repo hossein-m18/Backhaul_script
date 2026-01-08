@@ -1,27 +1,30 @@
 #!/bin/bash
-## Extremely Managed Server Script
+# Backhaul Script Installer for Externally Managed Servers (PEP 668)
+# Uses virtual environment to avoid system package conflicts
+# Author: github.com/hossein-m18
+
+set -e
+
+echo "Installing prerequisites..."
 sudo apt update
-sudo apt install -y python3 python3-pip curl
+sudo apt install -y python3 python3-pip python3-venv curl
 
-install_package_if_available() {
-    package_name=$(apt search "$1" 2>/dev/null | grep -o "^$1\S*")
-    if [[ -n "$package_name" ]]; then
-        sudo apt install -y "$package_name"
-    else
-        echo "Package $1 not found in the repositories."
-    fi
-}
+# Create and activate virtual environment
+VENV_DIR="/tmp/backhaul_venv"
+echo "Setting up virtual environment at $VENV_DIR..."
+python3 -m venv "$VENV_DIR"
+source "$VENV_DIR/bin/activate"
 
-install_package_if_available "python3-netifaces"
-install_package_if_available "python3-colorama"
-install_package_if_available "python3-requests"
-sudo apt install -y python3-venv
-python3 -m venv /tmp/my_env
-source /tmp/my_env/bin/activate
-
+# Upgrade pip and install required packages
 pip install --upgrade pip
 pip install netifaces colorama requests
-pip list
 
-bash -c "$(curl -fsSL https://raw.githubusercontent.com/hossein-m18/Backhaul_script/refs/heads/main/backhaul.sh)"
+# Download logo script
+curl -fsSL https://raw.githubusercontent.com/hossein-m18/Backhaul_script/refs/heads/main/logo.sh -o /etc/logo2.sh
+
+# Download and run backhaul.py
+echo "Downloading and running backhaul script..."
+curl -fsSL https://raw.githubusercontent.com/hossein-m18/Backhaul_script/refs/heads/main/backhaul.py | python3
+
+# Deactivate virtual environment
 deactivate
