@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 # 6to4 Configuration Script
-# Author: github.com/Azumi67
+# Author: github.com/hossein-m18
 # This is for educational use and my own learning, please provide me with feedback if possible
 # This script is designed to simplify the configuration of 6to4 tunnels.
 #
@@ -145,7 +145,7 @@ def display_logo():
       \033[96m   /' /\  \   \033[1;94m  /  ___/ \033[1;92m(:  |  | . )\033[1;93m /\   \/.    |\033[1;91m |:  |   
      \033[96m   //  __'  \  \033[1;94m //  \__  \033[1;92m \  \__/  / \033[1;93m|: \.        | \033[1;91m|.  |   
       \033[96m  /  /  \   \ \033[1;94m(:   / "\ \033[1;92m /\  __  /\ \033[1;93m|.  \    /:  |\033[1;91m /\  |\  \033[1;94mBackhaul Author: https://github.com/Musixal
-      \033[96m(___/    \___) \033[1;94m\_______)\033[1;92m(__________)\033[1;93m|___|\__/|___|\033[1;91m(__\_|_) \033[1;92mSCRIPT   Author: github.com/Azumi67  \033[1;96m                                                          
+      \033[96m(___/    \___) \033[1;94m\_______)\033[1;92m(__________)\033[1;93m|___|\__/|___|\033[1;91m(__\_|_) \033[1;92mSCRIPT   Author: github.com/hossein-m18  \033[1;96m                                                          
 """
     print(logo)
 
