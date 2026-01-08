@@ -23,5 +23,5 @@ pip install --upgrade pip
 pip install netifaces colorama requests
 pip list
 
-bash -c "$(curl -fsSL https://raw.githubusercontent.com/Azumi67/Backhaul_script/refs/heads/main/backhaul.sh)"
+bash -c "$(curl -fsSL https://raw.githubusercontent.com/hossein-m18/Backhaul_script/refs/heads/main/backhaul.sh)"
 deactivate
